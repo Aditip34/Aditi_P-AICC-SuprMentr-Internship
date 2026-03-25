@@ -1,0 +1,14 @@
+AI is widely used in daily life through various applications that rely on Machine Learning algorithms to improve user experience.
+
+Google Search uses ML to understand user intent and rank relevant web pages.
+YouTube recommends videos using collaborative filtering based on watch history.
+Instagram personalizes feed using user interactions like likes and shares.
+Google Maps predicts traffic and suggests optimal routes using historical and real-time data.
+Gmail Spam Filter uses classification algorithms to detect unwanted emails.
+Voice Assistants like Alexa and Google Assistant use NLP to understand commands.
+Netflix recommends movies based on viewing patterns.
+Amazon suggests products using recommendation systems.
+Face Unlock uses computer vision for facial recognition.
+Online Ads use ML to target users based on browsing behavior.
+
+These applications continuously learn from user data to improve accuracy and personalization.

@@ -1,0 +1,13 @@
+A Decision Tree is a supervised learning algorithm used for classification and decision-making.
+
+It splits data based on conditions at each node.
+Each branch represents a decision rule.
+Leaf nodes represent final outcomes (Yes/No).
+
+Example Logic:
+If weather is sunny → check humidity
+If humidity is high → do not play
+If humidity is normal → play
+If weather is rainy → do not play
+
+It is simple, interpretable, and widely used in real-life decision-making problems.

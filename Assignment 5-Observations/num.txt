@@ -1,0 +1,9 @@
+After comparing Python lists and NumPy arrays:
+
+NumPy arrays perform operations faster due to vectorization, avoiding explicit loops.
+They are implemented in optimized C code, which improves performance.
+NumPy consumes less memory compared to Python lists.
+It supports bulk operations, making it suitable for large datasets.
+Python lists are slower because they process elements one by one.
+
+Conclusion: NumPy is highly efficient for numerical and data science tasks.

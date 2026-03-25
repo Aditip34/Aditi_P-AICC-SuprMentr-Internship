@@ -1,0 +1,14 @@
+Problem Statement
+
+Predict customer churn to identify users who are likely to stop using a service.
+
+Dataset:
+Customer data including usage patterns, transactions, and demographics.
+
+Algorithm:
+Logistic Regression
+Random Forest
+
+Expected Output:
+Prediction of whether a customer will stay or leave.
+This system helps businesses take preventive actions to retain customers.

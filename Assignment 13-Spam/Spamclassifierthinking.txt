@@ -1,0 +1,20 @@
+A spam detection system classifies messages as spam or not spam using machine learning.
+
+1. Features Used
+Presence of spam keywords (free, win, offer)
+Message length
+Number of links
+Sender details
+Use of special characters
+
+2. Data Required
+Large dataset of emails/messages
+Properly labeled data (Spam / Not Spam)
+Diverse data for better generalization
+
+3. Possible Errors
+False Positive: Normal message marked as spam
+False Negative: Spam message marked as normal
+Errors due to new or unseen patterns
+
+Proper preprocessing and model tuning reduce these errors.

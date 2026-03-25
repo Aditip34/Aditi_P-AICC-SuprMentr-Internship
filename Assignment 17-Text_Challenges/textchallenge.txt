@@ -1,0 +1,17 @@
+Text data often contains noise which makes it difficult to process.
+
+1. Issues Identified
+Slang words (e.g., “u” instead of “you”)
+Emojis 
+Typos and spelling mistakes
+Mixed casing (UPPER/lower)
+Unnecessary punctuation
+
+2. Preprocessing Needed
+Convert text to lowercase
+Remove punctuation and emojis
+Correct spelling errors
+Remove stopwords
+Normalize slang words
+
+Clean text is essential for accurate NLP model performance.

@@ -1,0 +1,30 @@
+Machine Learning can be applied in various domains to solve real-world problems:
+
+College Domain
+Student Performance Prediction
+Input: Attendance, marks, study hours
+Output: Final grade prediction
+
+Attendance System (Face Recognition)
+Input: Student images
+Output: Attendance status
+
+Healthcare Domain
+Disease Prediction System
+Input: Symptoms, medical history
+Output: Predicted disease
+
+Hospital Readmission Prediction
+Input: Patient records
+Output: Risk of readmission
+
+Shopping Domain
+Recommendation System
+Input: User browsing history
+Output: Suggested products
+
+Fraud Detection
+Input: Transaction details
+Output: Fraud/Not Fraud
+
+ML helps automate decision-making and improve efficiency.
