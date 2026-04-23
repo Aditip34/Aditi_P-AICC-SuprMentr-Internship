@@ -1,0 +1,5 @@
+1. Car – Automobile → High similarity (same meaning)
+2. Happy – Joyful → Similar emotions
+3. Teacher – Student → Related but different roles
+4. Dog – Animal → General relationship
+5. Hot – Cold → Opposite meaning

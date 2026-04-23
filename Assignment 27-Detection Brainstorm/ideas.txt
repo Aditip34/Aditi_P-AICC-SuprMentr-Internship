@@ -1,0 +1,9 @@
+Applications:
+1. Face recognition for attendance
+2. Security surveillance
+3. Self-driving cars (object detection)
+4. Retail customer tracking
+5. Mobile face unlock
+
+Solution Idea:
+Face-based attendance system using camera input to mark student presence automatically.

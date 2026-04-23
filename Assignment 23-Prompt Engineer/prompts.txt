@@ -1,0 +1,12 @@
+Weak Prompt: "Write resume"
+
+Strong Prompt:
+"Write a professional resume for a computer science student with skills in Python, ML, and projects."
+
+Weak Prompt: "Give business idea"
+
+Strong Prompt:
+"Suggest a profitable startup idea in AI for healthcare with target users and revenue model."
+
+Conclusion:
+Strong prompts are specific, clear, and detailed.

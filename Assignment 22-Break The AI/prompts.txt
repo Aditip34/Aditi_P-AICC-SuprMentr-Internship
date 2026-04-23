@@ -1,0 +1,11 @@
+Prompt 1: "Explain nothing in detail"
+Result: Confusing response
+
+Prompt 2: "Give answer without using words"
+Result: Model struggles
+
+Prompt 3: "Write wrong answer correctly"
+Result: Contradiction
+
+Observation:
+LLMs get confused with vague, contradictory, or impossible instructions.
